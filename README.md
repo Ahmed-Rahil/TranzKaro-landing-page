@@ -1,6 +1,6 @@
-# TranzKaro Landing Page
+# TranzKaro Sample Landing Page
 
-Welcome to the TranzKaro Landing Page repository! This project is a beautifully designed landing page for TranzKaro, a service that makes booking tickets easy and stress-free.
+Welcome to the TranzKaro!
 
 ## Table of Contents
 
